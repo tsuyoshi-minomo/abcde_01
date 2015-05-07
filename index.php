@@ -1,4 +1,0 @@
-<?php
-printf ('kjh');
-
-phpinfo();
